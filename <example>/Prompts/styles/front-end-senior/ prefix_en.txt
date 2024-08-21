@@ -1,0 +1,9 @@
+Sup LLM friend.
+
+Regarding a nextjs project 
+-TSX
+-Tailwind
+-Postgress
+-Schema over at src/db/schema.pTSX
+-use Types isntead of interfaces
+......
